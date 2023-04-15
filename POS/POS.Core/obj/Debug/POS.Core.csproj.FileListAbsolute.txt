@@ -1,0 +1,12 @@
+c:\Users\admin\documents\visual studio 2015\Projects\POS\POS.Core\bin\Debug\POS.Core.dll
+c:\Users\admin\documents\visual studio 2015\Projects\POS\POS.Core\bin\Debug\POS.Core.pdb
+c:\Users\admin\documents\visual studio 2015\Projects\POS\POS.Core\obj\Debug\POS.Core.dll
+c:\Users\admin\documents\visual studio 2015\Projects\POS\POS.Core\obj\Debug\POS.Core.pdb
+C:\Users\admin\Desktop\POS\POS\bin\Debug\POS.Core.dll
+C:\Users\admin\Desktop\POS\POS\bin\Debug\POS.Core.pdb
+C:\Users\admin\Desktop\POS\POS.Core\bin\Debug\POS.Core.dll
+C:\Users\admin\Desktop\POS\POS.Core\bin\Debug\POS.Core.pdb
+C:\Users\admin\Desktop\POS\POS.Core\bin\Debug\Autofac.dll
+C:\Users\admin\Desktop\POS\POS.Core\bin\Debug\Autofac.xml
+C:\Users\admin\Desktop\POS\POS.Core\obj\Debug\POS.Core.dll
+C:\Users\admin\Desktop\POS\POS.Core\obj\Debug\POS.Core.pdb

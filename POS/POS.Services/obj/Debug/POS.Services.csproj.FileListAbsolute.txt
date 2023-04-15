@@ -1,0 +1,7 @@
+c:\Users\admin\documents\visual studio 2015\Projects\POS\POS.Services\obj\Debug\POS.Services.csprojResolveAssemblyReference.cache
+c:\Users\admin\documents\visual studio 2015\Projects\POS\POS.Services\bin\Debug\POS.Services.dll
+c:\Users\admin\documents\visual studio 2015\Projects\POS\POS.Services\bin\Debug\POS.Services.pdb
+c:\Users\admin\documents\visual studio 2015\Projects\POS\POS.Services\bin\Debug\POS.Core.dll
+c:\Users\admin\documents\visual studio 2015\Projects\POS\POS.Services\bin\Debug\POS.Core.pdb
+c:\Users\admin\documents\visual studio 2015\Projects\POS\POS.Services\obj\Debug\POS.Services.dll
+c:\Users\admin\documents\visual studio 2015\Projects\POS\POS.Services\obj\Debug\POS.Services.pdb

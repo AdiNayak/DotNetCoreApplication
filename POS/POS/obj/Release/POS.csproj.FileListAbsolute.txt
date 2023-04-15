@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\POS\POS\bin\Release\POS.exe.config
+C:\Users\admin\Desktop\POS\POS\obj\Release\POS.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\POS\POS\obj\Release\POS.MasterSetup.ItemMaster.resources
+C:\Users\admin\Desktop\POS\POS\obj\Release\POS.DashBoard.resources
+C:\Users\admin\Desktop\POS\POS\obj\Release\POS.Properties.Resources.resources
+C:\Users\admin\Desktop\POS\POS\obj\Release\POS.formTemplate.resources
+C:\Users\admin\Desktop\POS\POS\obj\Release\UTools.ValidText.resources
+C:\Users\admin\Desktop\POS\POS\obj\Release\POS.csproj.GenerateResource.Cache
