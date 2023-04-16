@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\POS\POS.Data\bin\Release\POS.Data.dll
+C:\Users\admin\Desktop\POS\POS.Data\bin\Release\POS.Data.pdb
+C:\Users\admin\Desktop\POS\POS.Data\bin\Release\POS.Core.dll
+C:\Users\admin\Desktop\POS\POS.Data\bin\Release\POS.Core.pdb
+C:\Users\admin\Desktop\POS\POS.Data\obj\Release\POS.Data.dll
+C:\Users\admin\Desktop\POS\POS.Data\obj\Release\POS.Data.pdb

@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\POS\POS\bin\Debug\POS.Data.dll
+C:\Users\admin\Desktop\POS\POS\bin\Debug\POS.Data.pdb
+C:\Users\admin\Desktop\POS\POS.Data\bin\Debug\POS.Data.dll
+C:\Users\admin\Desktop\POS\POS.Data\bin\Debug\POS.Data.pdb
+C:\Users\admin\Desktop\POS\POS.Data\bin\Debug\POS.Core.dll
+C:\Users\admin\Desktop\POS\POS.Data\bin\Debug\POS.Core.pdb
+C:\Users\admin\Desktop\POS\POS.Data\obj\Debug\POS.Data.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\POS\POS.Data\obj\Debug\POS.Data.dll
+C:\Users\admin\Desktop\POS\POS.Data\obj\Debug\POS.Data.pdb

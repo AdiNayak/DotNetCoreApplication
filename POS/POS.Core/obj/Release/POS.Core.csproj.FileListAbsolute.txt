@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\POS\POS.Core\bin\Release\POS.Core.dll
+C:\Users\admin\Desktop\POS\POS.Core\bin\Release\POS.Core.pdb
+C:\Users\admin\Desktop\POS\POS.Core\bin\Release\Autofac.dll
+C:\Users\admin\Desktop\POS\POS.Core\bin\Release\Autofac.xml
+C:\Users\admin\Desktop\POS\POS.Core\obj\Release\POS.Core.dll
+C:\Users\admin\Desktop\POS\POS.Core\obj\Release\POS.Core.pdb
