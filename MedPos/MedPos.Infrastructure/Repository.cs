@@ -29,6 +29,19 @@ namespace MedPos.Infrastructure
 			_ = _dbSet.AddAsync(entity);
 		}
 
+		public T Create(T entity)
+		{
+			_dbSet.Add(entity);
+			return entity;
+		}
+
+		public async Task<T> CreateAsync(T entity)
+		{
+			await  _dbSet.AddAsync(entity);
+			return entity;
+
+		}
+
 		public void Delete(T entity)
 		{
 			_dbSet.Remove(entity);

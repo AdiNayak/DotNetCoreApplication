@@ -5,9 +5,11 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MedPos.Domain.Model
 {
+	[Table("Item")]
 	public class Item
 	{
 		[Key]

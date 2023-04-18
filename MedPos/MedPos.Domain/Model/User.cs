@@ -2,13 +2,15 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace MedPos.Domain.Model
 {
-	public class LoginDetail
+	[Table("User")]
+	public class User
 	{
 		[Key]
 		public int UserId { get; set; }
@@ -26,9 +28,10 @@ namespace MedPos.Domain.Model
 		[Required]
 		[MaxLength(10)]
 		public string Mobile { get; set; }
-		public DateTime CreatedDate { get; set; } = DateTime.UtcNow;
 		[DefaultValue(null)]
-		public DateTime UpdatedDate { get; set; }
+		public DateTime? CreatedDate { get; set; }
+		[DefaultValue(null)]
+		public DateTime? UpdatedDate { get; set; }
 		[DefaultValue(true)]
 		public bool IsActive { get; set; }
 		[DefaultValue(false)]

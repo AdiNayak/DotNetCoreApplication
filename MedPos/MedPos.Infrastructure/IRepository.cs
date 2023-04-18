@@ -12,6 +12,8 @@ namespace MedPos.Infrastructure
 		IEnumerable<T> GetAll(Expression<Func<T, bool>>? predicate = null, string? includeProperties = null);
 		T Get(Expression<Func<T, bool>> predicate, string? includeProperties = null);
 		void Add(T entity);
+		T Create(T entity);
+		Task <T> CreateAsync(T entity);
 		T Update(T entity, object key);
 		void Delete(T entity);
 		Task<IEnumerable<T>> GetAllAsync(Expression<Func<T, bool>>? predicate = null, string? includeProperties = null);

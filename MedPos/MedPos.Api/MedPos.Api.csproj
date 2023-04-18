@@ -17,6 +17,7 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration" Version="6.0.13" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\MedPos.Core\MedPos.Core.csproj" />
     <ProjectReference Include="..\MedPos.Domain\MedPos.Domain.csproj" />
     <ProjectReference Include="..\MedPos.Infrastructure\MedPos.Infrastructure.csproj" />
   </ItemGroup>

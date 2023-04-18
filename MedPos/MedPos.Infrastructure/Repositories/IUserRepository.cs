@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MedPos.Infrastructure.Repositories
 {
-	public interface ILoginDetailRepository:IRepository<LoginDetail>
+	public interface IUserRepository:IRepository<User>
 	{
 	}
 }

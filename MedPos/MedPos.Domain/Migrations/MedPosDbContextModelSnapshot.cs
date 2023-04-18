@@ -58,7 +58,7 @@ namespace MedPos.Domain.Migrations
 
                     b.HasKey("BrandId");
 
-                    b.ToTable("Brands");
+                    b.ToTable("Brand");
                 });
 
             modelBuilder.Entity("MedPos.Domain.Model.Item", b =>
@@ -105,7 +105,7 @@ namespace MedPos.Domain.Migrations
                     b.ToTable("Item");
                 });
 
-            modelBuilder.Entity("MedPos.Domain.Model.LoginDetail", b =>
+            modelBuilder.Entity("MedPos.Domain.Model.User", b =>
                 {
                     b.Property<int>("UserId")
                         .ValueGeneratedOnAdd()
@@ -113,7 +113,7 @@ namespace MedPos.Domain.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UserId"), 1L, 1);
 
-                    b.Property<DateTime>("CreatedDate")
+                    b.Property<DateTime?>("CreatedDate")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Email")
@@ -147,12 +147,12 @@ namespace MedPos.Domain.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("UpdatedDate")
+                    b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("datetime2");
 
                     b.HasKey("UserId");
 
-                    b.ToTable("LoginDetails");
+                    b.ToTable("User");
                 });
 
             modelBuilder.Entity("MedPos.Domain.Model.Item", b =>

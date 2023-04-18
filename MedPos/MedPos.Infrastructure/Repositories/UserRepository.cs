@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace MedPos.Infrastructure.Repositories
 {
-	internal class LoginDetailRepository:Repository<LoginDetail>, ILoginDetailRepository
+	internal class UserRepository:Repository<User>, IUserRepository
 	{
-		public LoginDetailRepository(MedPosDbContext context) : base(context)
+		public UserRepository(MedPosDbContext context) : base(context)
 		{
 
 		}

@@ -7,12 +7,11 @@ using System.Threading.Tasks;
 
 namespace MedPos.Infrastructure
 {
-	public interface IUnitOfWork
+	public interface IUnitOfWork:IDisposable
 	{
-		public ILoginDetailRepository LoginDetailRepository { get; }
-
+		public IUserRepository UserRepository { get; }
 		public IBrandRepository BrandRepository { get; }
 		public IItemRepository ItemRepository { get; }
-		public void Commit();
+		public void Save();
 	}
 }
