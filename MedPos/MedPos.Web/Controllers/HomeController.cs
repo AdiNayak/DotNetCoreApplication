@@ -1,8 +1,8 @@
-﻿using MedPos.Models;
+﻿using MedPos.Web.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace MedPos.Controllers
+namespace MedPos.Web.Controllers
 {
 	public class HomeController : Controller
 	{

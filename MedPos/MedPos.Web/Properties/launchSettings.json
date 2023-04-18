@@ -3,16 +3,16 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:40191",
+      "applicationUrl": "http://localhost:4026",
       "sslPort": 0
     }
   },
   "profiles": {
-    "MedPos": {
+    "MedPos.Web": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "http://localhost:5132",
+      "applicationUrl": "http://localhost:5286",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

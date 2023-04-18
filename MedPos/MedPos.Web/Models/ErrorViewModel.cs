@@ -1,4 +1,4 @@
-namespace MedPos.Models
+namespace MedPos.Web.Models
 {
 	public class ErrorViewModel
 	{
